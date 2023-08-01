@@ -14,7 +14,7 @@ Easy to making your facebook messenger.
 ### Composer
 
 ```shell
-composer require adolphyu/laravel-facebook-messenger
+composer require syildiz/laravel-facebook-messenger
 ```
 
 ## Laravel
